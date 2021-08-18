@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Lato';
+}
+
+h1 {
+  text-align: center;
+}
