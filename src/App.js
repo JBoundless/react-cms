@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div>
       <TopBar />
-      <h1>GitHub Times CMS</h1>
+      <h1>Global Times CMS</h1>
       <LineChart />
       <h2>The Latest Social Media Analytics</h2>
       <Cards />
